@@ -46,12 +46,8 @@ export default function Home() {
 
       <footer>
         Made by{" "}
-        <a
-          href="https://nod.cards/fbrill"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Francois Brill
+        <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
+          Nextjs
         </a>
       </footer>
     </Layout>
